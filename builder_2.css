@@ -1,0 +1,28 @@
+body{
+   background:url("pc_1.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+}
+h1{
+    width:200px;
+    background-color:white;
+    border-radius:15px;
+    padding:20px;
+    font-family: SF Pro Display;
+}
+
+h3{
+    width:500px;
+    background-color:white;
+    border-radius:15px;
+    padding:20px;
+    font-family: SF Pro Display;
+}
+ #prebuilt{
+    width:30px;
+    height:30px;
+ }
+#assembled{
+    width:30px;
+    height:30px;
+}

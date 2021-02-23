@@ -1,0 +1,32 @@
+body{
+    background:url("pc.png");
+    background-size: contain;
+    
+
+
+}
+h1{
+    width:200px;
+    background-color:white;
+    border-radius:15px;
+    padding:20px;
+    font-family: SF Pro Display;
+}
+
+h3{
+    width:500px;
+    background-color:white;
+    border-radius:15px;
+    padding:20px;
+    font-family: SF Pro Display;
+}
+button{
+    background-color:white;
+    border-radius:15px;
+    padding:20px;
+    font-family: SF Pro Display; 
+    font-weight:bold;  
+}
+button:hover{
+    color:cornflowerblue;
+}

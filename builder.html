@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>Computer Builder X</title>
+        <link rel="icon" href="https://img.icons8.com/nolan/64/workstation.png" type="image/icon type">
+        <link rel="stylesheet" href="buider.css">
+    </head>
+    <center>
+    <body onload="preload()">
+
+    <h1>PC Builder X</h1>
+    <h2>The PC Builder X is your Virtual PC Building Assistant</h4>
+    <h3>Please fill out the below form so that I can suggest the parts for you and show the online stores where you can get it</h3>
+    <br>
+    <br>
+
+    <div class="Form_use">
+        <h3 id="budget_head">What are you going to use the PC for</h3>
+        <select name="PC_use" id="PC_use" onchange="useset ()">
+       <option value="Workstation/Content-Creators">Workstation/Content Creators</option>  
+       <option value="Gaming">Gaming</option>
+       <option value="Mining">Mining</option>
+       <option value="Education/Coding/Office">Education/Coding/Office</option>
+
+        </select>
+
+    </div>
+    <br>
+    <br>
+    <div class="form_budget">
+        <h3>Please enter in a budget for your PC</h3>
+        <input id="budget" type="number"> <br><br>
+        <button onclick="budgetset()">Place Budget</button>
+        <h3 id="msg"></h3>
+        </div>
+    <script src="main.js"></script>
+</center>
+
+    </body>
+</html>
