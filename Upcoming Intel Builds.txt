@@ -1,0 +1,45 @@
+===========================
+Fastest Intel Gaming PC Build
+===========================
+ Core i9 10th gen 10900k
+ Nvidia RTX 3090 Suprim from MSI
+ MSI Meg Z490 Unify
+ Corsair Vengeance LPX DDR4 32GB(16X2)CL16 ram kit
+ Western Digital Black SN850 2TB PCIe GEN 4 SSD
+ Corsair AX1600i
+ Samsung Odyssey Monitor
+ Corsair Crystal 680x White Case ATX
+ Nzxt Kraken X73 360mm
+ 
+
+===========================
+Fastest Intel Workstation Build           
+===========================
+ Core i9 10980XE
+ Nvidia Titan RTX
+ ASUS Prime X299 Deluxe II
+ G.SKILL Trident Z RGB 32GB (2 * 16GB) 4000 Mhz DDR4 Desktop Memory
+ Samsung 970 EVO Plus
+ HoneyBadger from liqid
+ PCIe Riser
+ Corsair AX1600i 
+ Samsung Odyssey G9
+ Antec DF700 Flux Black Mid Tower Computer Cabinet 
+ Nzxt Kraken X73 360mm
+
+ ===========================
+ Fastest AMD Mining Build
+ ===========================
+ AMD RYZEN 9 3950X
+ Nvidia RTX 3090 Suprim
+ MSI MEG X570 GODLIKE Motherboard
+ Corsair Vengeance 3200mhz 32 gig (16x2) ram kit
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
