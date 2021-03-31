@@ -1,72 +1,137 @@
-body{
-    background-image: url("pc.jpg") ;
-    background-size:1366px;
+body {
+    background-image: url("pc.jpg");
+    background-size: 1366px;
+    width: 1366px;
     text-align: center;
+    scroll-behavior: smooth;
+    font-family: SF pro display !important;
+    color: black !important;
+    overflow-x: hidden;
 
 }
-h1{
+#guide_head{
+    background-color:#f1f1f1b6;
+    color:black;
+    font-family: SF Pro Display;
     width:200px;
-    background-color:white;
-    border-radius:15px;
-    padding:20px;
-    font-family: SF Pro Display;
+    border-radius:10px;
+    padding:10px;
 }
-h2{
-    width:500px;
-    background-color:white;
-    border-radius:15px;
-    padding:20px;
-    font-family: SF Pro Display;
-}
-h3{
-    width:600px;
-    background-color:white;
-    border-radius:15px;
-    padding:20px;
-    font-family: SF Pro Display;
-}
-#msg{
-    display: none;
-    width:600px;
-    background-color:white;
-    border-radius:15px;
-    padding:20px;
-    font-family: SF Pro Display;   
-}
-select{
 
-    width:600px;
-    background-color:white;
-    border-radius:15px;
-    padding:20px;
+
+select {
+
+    width: 600px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
     font-family: SF Pro Display;
     font-weight: bold;
 }
-input{
-    width:200px;
-    height:10px;
-    background-color:white;
-    border-radius:15px;
-    padding:20px;
+
+input {
+    width: 200px;
+    height: 10px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
     font-family: SF Pro Display;
 }
-button{
-    width:200px;
-    background-color:white;
-    border-radius:15px;
-    padding:10px;
+
+button {
+    width: 200px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
     font-family: SF Pro Display;
-    font-weight:bold;
+    font-weight: bold;
 }
-.fastest_builds span{
-    color:black;
-    background-color:white;
-    border-radius:10px;
-    padding:10px;
-    font-family:SF Pro Display;
-    font-size:20px;
+
+.heading_1 {
+    color: black;
+    border-radius: 10px;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 140px;
+    padding-top: 50px;
+    font-family: SF Pro Display;
+    font-size: 25px;
+    font-weight: bold;
+
+    width: 500px;
 
 }
-.fastest_builds{
-    margin-top:60px;
+
+
+.div_style:hover {
+    font-size: 23px;
+    color: grey
+}
+
+#div3 {
+    margin-right: -30px;
+}
+
+#div4 {
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-left: 23px;
+    padding-right: 36px;
+}
+
+footer {
+    background-color: rgba(128, 128, 128, 0.616);
+    bottom: 100;
+    width: 100%;
+    color: white;
+    font-family: SF Pro Display;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.header {
+
+    background-color: #f1f1f1b6 !important;
+
+
+
+    border-radius: 15px !important;
+    padding: 20px !important;
+    font-family: SF Pro Display !important;
+    color: black !important;
+}
+
+.column {
+    margin: 100px;
+    float: none;
+    width: 33.33%;
+    color: black;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    font-family: SF Pro Display;
+    font-size: 20px;
+
+
+
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.Form_use {
+    margin-top: 200px;
+    border-radius: 10px;
+    background-color: #f1f1f1b6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.form_budget{
+    border-radius: 10px;
+    background-color: #f1f1f1b6;
+    padding-top: 20px;
+    padding-bottom: 20px;  
 }
